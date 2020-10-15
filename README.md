@@ -1,16 +1,17 @@
 # vue学习
+## 本项目为vue-cli创建基础项目
 
-## Project setup
+## 当前目录 cmd 执行加载依赖的包
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 执行命令运行项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 编译命令
 ```
 npm run build
 ```
@@ -20,6 +21,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# vue-study
+
